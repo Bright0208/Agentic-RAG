@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-text-splitters
+langgraph
+langchain-milvus
+pymilvus[milvus-lite]
+
+fastapi
+uvicorn[standard]
+python-multipart
+
+pypdf
+python-dotenv
+pydantic-settings
+
+pytest
+httpx
