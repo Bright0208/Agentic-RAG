@@ -15,3 +15,5 @@ pydantic-settings
 
 pytest
 httpx
+sentence-transformers
+langchain-ollama
